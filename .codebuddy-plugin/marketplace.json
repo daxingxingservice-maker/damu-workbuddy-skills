@@ -1,0 +1,19 @@
+{
+  "name": "damu-skills",
+  "owner": {
+    "name": "达目社"
+  },
+  "plugins": [
+    {
+      "name": "damu-moments",
+      "source": "./plugins/damu-moments",
+      "description": "达目社：根据持续更新的知识库生成不重复的朋友圈日更。",
+      "version": "0.1.0",
+      "author": {
+        "name": "达目社"
+      },
+      "category": "Productivity",
+      "tags": ["达目社", "达目社SKILL", "朋友圈", "朋友圈日更", "知识库", "去重"]
+    }
+  ]
+}

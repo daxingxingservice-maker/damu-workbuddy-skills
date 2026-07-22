@@ -1,0 +1,4 @@
+interface:
+  display_name: "达目社"
+  short_description: "基于达目知识库生成真实合规且不重复的朋友圈日更文案"
+  default_prompt: "使用 $damu-moments-daily 为我生成今天可直接发布的朋友圈日更。"

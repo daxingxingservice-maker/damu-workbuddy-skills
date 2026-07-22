@@ -1,0 +1,27 @@
+{
+  "name": "damu-moments",
+  "version": "0.1.0",
+  "description": "基于持续更新的达目社知识库生成真实、合规、去重的朋友圈日更文案。",
+  "author": {
+    "name": "达目社"
+  },
+  "homepage": "https://pro137agent.cn/",
+  "license": "MIT",
+  "keywords": ["达目社", "达目社SKILL", "朋友圈", "朋友圈日更", "日更", "飞书知识库", "去重"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "达目社",
+    "shortDescription": "从达目知识库生成真实、去重、可追溯的朋友圈日更",
+    "longDescription": "跟随达目社飞书知识库和每日话题自动更新内容来源，结合用户个人经历与本地发布历史，生成三版可直接发布的朋友圈文案并完成合规检查。",
+    "developerName": "达目社",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "websiteURL": "https://pro137agent.cn/",
+    "defaultPrompt": [
+      "根据达目社最新知识库，帮我写今天的朋友圈日更。",
+      "换个角度，别和我过去30天发过的内容重复。",
+      "检查这条朋友圈是否真实、合规并且不重复。"
+    ],
+    "brandColor": "#D97706"
+  }
+}
