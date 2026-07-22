@@ -1,7 +1,7 @@
 ---
 name: damu-moments-daily
 slug: damu
-version: 0.1.2
+version: 0.1.3
 displayName: 达目社
 license: MIT
 summary: 跟随达目社知识库自动更新，生成真实、合规且不重复的朋友圈日更。
