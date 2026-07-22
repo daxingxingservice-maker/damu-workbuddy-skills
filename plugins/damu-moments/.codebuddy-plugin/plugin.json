@@ -1,6 +1,6 @@
 {
   "name": "damu-moments",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "基于持续更新的达目社知识库生成真实、合规、去重的朋友圈日更文案。",
   "author": {
     "name": "达目社"
